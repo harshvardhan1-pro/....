@@ -24,7 +24,7 @@ header {
 /* Enhanced Logo Styling */
 .logo {
     font-family: 'Tangerine', cursive;
-    font-size: 48px; /* Larger logo text */
+    font-size: 150px; /* Larger logo text */
     font-weight: bold;
     animation: slideIn 2s ease;
     text-shadow: 2px 2px 8px rgba(255, 255, 255, 0.6); /* Glowing text */

@@ -97,7 +97,7 @@
             <h3>Cord set</h3>
  </div>
         <div class="product-card">
-            <img src="C:\Users\HP\Pictures\short kurta 2.jpg" alt="Short kurta">
+            <img src="short kurta 2.jpg" alt="Short kurta">
             
             <h3>Short Kurta</h3>
 

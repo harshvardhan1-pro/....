@@ -67,7 +67,7 @@
             <h3>Shirts</h3>
  </div>
         <div class="product-card">
-            <img src="https://raw.githubusercontent.com/..../main/Screenshot%202025-05-07%20144324.png" alt="Chunri">
+            <img src="https://raw.githubusercontent.com/harshvardhan1-pro/..../main/Screenshot%202025-05-07%20144324.png" alt="Chunri">
             <h3>Chunri</h3>
  </div>
         <div class="product-card">

@@ -63,40 +63,40 @@
             <h3>Suits</h3>
         </div>
         <div class="product-card">
-            <img src="https://github.com/harshvardhan1-pro/..../blob/main/Screenshot%202025-05-07%20140403.png" alt="Shirts">
+            <img src="https://raw.githubusercontent.com/..../main/Screenshot%202025-05-07%20140403.png" alt="Shirts">
             <h3>Shirts</h3>
             </div>
         <div class="product-card">
-            <img src="https://github.com/harshvardhan1-pro/..../blob/main/Screenshot%202025-05-07%20144324.png" alt="Chunri">
+            <img src="https://raw.githubusercontent.com/..../main/Screenshot%202025-05-07%20144324.png" alt="Chunri">
             
 <h3>Chunri</h3>
 </div>
         <div class="product-card">
-            <img src="https://github.com/harshvardhan1-pro/..../blob/main/Screenshot%202025-05-07%20150017.png"alt="Saree">
+            <img src="https://raw.githubusercontent.com/harshvardhan1-pro/..../main/Screenshot%202025-05-07%20150017.png"alt="Saree">
             <h3>Saree</h3>
 
   </div>
         <div class="product-card">
-            <img src="https://github.com/harshvardhan1-pro/..../blob/main/Screenshot%202025-05-07%20145558.png" alt="Lehengha">
+            <img src="https://raw.githubusercontent.com/harshvardhan1-pro/..../main/Screenshot%202025-05-07%20145558.png" alt="Lehengha">
             <h3>Lehengha</h3>
                
  </div>
         <div class="product-card">
-            <img src="https://github.com/harshvardhan1-pro/..../blob/main/Screenshot%202025-05-07%20122609.png" alt="Rajasthani">
+            <img src="https://raw.githubusercontent.com/harshvardhan1-pro/..../main/Screenshot%202025-05-07%20122609.png" alt="Rajasthani">
             <h3>Rajasthani Special</h3>
        
  </div>
         <div class="product-card">
-            <img src="https://github.com/harshvardhan1-pro/..../blob/main/suittt.jpg" alt="Suit">
+            <img src="https://raw.githubusercontent.com/harshvardhan1-pro/..../main/suittt.jpg" alt="Suit">
             <h3>Suit</h3>
       
 </div>
         <div class="product-card">
-            <img src="https://github.com/harshvardhan1-pro/..../blob/main/ritika%20kurti%202.jpg" alt="Cord set">
+            <img src="https://raw.githubusercontent.com/harshvardhan1-pro/..../main/ritika%20kurti%202.jpg" alt="Cord set">
             <h3>Cord set</h3>
  </div>
         <div class="product-card">
-            <img src="https://github.com/harshvardhan1-pro/..../blob/main/short%20kurta%202.jpg" alt="Short kurta">
+            <img src="https://raw.githubusercontent.com/harshvardhan1-pro/..../main/short%20kurta%202.jpg" alt="Short kurta">
              <h3>Short Kurta</h3>
 
 </div>

@@ -59,41 +59,41 @@
     <h2>Our Collections</h2>
     <div class="product-grid">
         <div class="product-card">
-            <img src="C:\Users\HP\Pictures\Screenshots\Screenshot 2025-05-07 122731.png" alt="Suits">
+            <img src="https://github.com/harshvardhan1-pro/..../blob/main/Screenshot%202025-05-07%20122731.png" alt="Suits">
             <h3>Suits</h3>
         </div>
         <div class="product-card">
-            <img src="C:\Users\HP\Pictures\Screenshots\Screenshot 2025-05-07 140403.png" alt="Shirts">
+            <img src="https://github.com/harshvardhan1-pro/..../blob/main/Screenshot%202025-05-07%20140403.png" alt="Shirts">
             <h3>Shirts</h3>
             </div>
         <div class="product-card">
-            <img src="C:\Users\HP\Pictures\Screenshots\Screenshot 2025-05-07 144324.png" alt="Chunri">
+            <img src="https://github.com/harshvardhan1-pro/..../blob/main/Screenshot%202025-05-07%20144324.png" alt="Chunri">
             
             <h3>Chunri</h3>
 
          </div>
         <div class="product-card">
-            <img src="C:\Users\HP\Pictures\Screenshots\Screenshot 2025-05-07 150017.png"alt="Saree">
+            <img src="https://github.com/harshvardhan1-pro/..../blob/main/Screenshot%202025-05-07%20150017.png"alt="Saree">
             <h3>Saree</h3>
 
         </div>
         <div class="product-card">
-            <img src="C:\Users\HP\Pictures\Screenshots\Screenshot 2025-05-07 145558.png" alt="Lehenga">
+            <img src="https://github.com/harshvardhan1-pro/..../blob/main/Screenshot%202025-05-07%20145558.png" alt="Lehenga">
             <h3>Leheng</h3>
                
         </div>
         <div class="product-card">
-            <img src="C:\Users\HP\Pictures\Screenshots\Screenshot 2025-05-07 122609.png" alt="Rajasthani">
+            <img src="https://github.com/harshvardhan1-pro/..../blob/main/Screenshot%202025-05-07%20122609.png" alt="Rajasthani">
             <h3>Rajasthani Special</h3>
        
        </div>
         <div class="product-card">
-            <img src="C:\Users\HP\Documents\suittt.jpg" alt="Suit">
+            <img src="https://github.com/harshvardhan1-pro/..../blob/main/suittt.jpg" alt="Suit">
             <h3>Suit</h3>
       
       </div>
         <div class="product-card">
-            <img src="C:\Users\HP\Pictures\ritika kurti 2.jpg" alt="Cord set">
+            <img src="https://github.com/harshvardhan1-pro/..../blob/main/ritika%20kurti%202.jpg" alt="Cord set">
             <h3>Cord set</h3>
  </div>
         <div class="product-card">

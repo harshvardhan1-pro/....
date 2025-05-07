@@ -77,8 +77,8 @@
 
   </div>
         <div class="product-card">
-            <img src="https://github.com/harshvardhan1-pro/..../blob/main/Screenshot%202025-05-07%20145558.png" alt="Lehenga">
-            <h3>Leheng</h3>
+            <img src="https://github.com/harshvardhan1-pro/..../blob/main/Screenshot%202025-05-07%20145558.png" alt="Lehengha">
+            <h3>Lehengha</h3>
                
  </div>
         <div class="product-card">

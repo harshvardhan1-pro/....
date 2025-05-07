@@ -80,15 +80,18 @@
         <div class="product-card">
             <img src="C:\Users\HP\Pictures\Screenshots\Screenshot 2025-05-07 145558.png" alt="Lehenga">
             <h3>Leheng</h3>
-               </div>
+               
+        </div>
         <div class="product-card">
             <img src="C:\Users\HP\Pictures\Screenshots\Screenshot 2025-05-07 122609.png" alt="Rajasthani">
             <h3>Rajasthani Special</h3>
-            </div>
+       
+       </div>
         <div class="product-card">
             <img src="C:\Users\HP\Documents\suittt.jpg" alt="Suit">
             <h3>Suit</h3>
-             </div>
+      
+      </div>
         <div class="product-card">
             <img src="C:\Users\HP\Pictures\ritika kurti 2.jpg" alt="Cord set">
             <h3>Cord set</h3>

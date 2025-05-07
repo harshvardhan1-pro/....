@@ -59,7 +59,7 @@
     <h2>Our Collections</h2>
     <div class="product-grid">
         <div class="product-card">
-            <img src="https://rawgithubusercontent.com/harshvardhan1-pro/..../blob/main/Screenshot%202025-05-07%20122731.png" alt="Suits">
+            <img src="https://raw.githubusercontent.com/harshvardhan1-pro/..../blob/main/Screenshot%202025-05-07%20122731.png" alt="Suits">
             <h3>Suits</h3>
         </div>
         <div class="product-card">

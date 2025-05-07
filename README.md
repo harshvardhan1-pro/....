@@ -98,7 +98,7 @@
             <img src="https://raw.githubusercontent.com/harshvardhan1-pro/..../main/short%20kurta%202.jpg" alt="Short kurta">
              <h3>Short Kurta</h3>
 
-</div>
+    </div>
         </div>
         </div>
 </section>

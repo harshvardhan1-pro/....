@@ -57,9 +57,7 @@
 
 <section id="products" class="products">
     <h2>Our Collections</h2>
-    <div class="product-grid">
-        
- </div>
+    <div class="product-grid">      
         <div class="product-card">
             <img src="https://raw.githubusercontent.com/harshvardhan1-pro/..../main/Screenshot%202025-05-07%20150017.png" alt="Saree">
             <h3>Saree</h3>

@@ -65,11 +65,11 @@
         <div class="product-card">
             <img src="https://raw.githubusercontent.com/..../main/Screenshot%202025-05-07%20140403.png" alt="Shirts">
             <h3>Shirts</h3>
-</div>
+ </div>
         <div class="product-card">
             <img src="https://raw.githubusercontent.com/..../main/Screenshot%202025-05-07%20144324.png" alt="Chunri">
             <h3>Chunri</h3>
-</div>
+ </div>
         <div class="product-card">
             <img src="https://raw.githubusercontent.com/harshvardhan1-pro/..../main/Screenshot%202025-05-07%20150017.png"alt="Saree">
             <h3>Saree</h3>

@@ -97,8 +97,7 @@
  </div>
         <div class="product-card">
             <img src="https://github.com/harshvardhan1-pro/..../blob/main/short%20kurta%202.jpg" alt="Short kurta">
-            
- <h3>Short Kurta</h3>
+             <h3>Short Kurta</h3>
 
              </div>
         </div>

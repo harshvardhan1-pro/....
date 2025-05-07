@@ -26,7 +26,7 @@ header {
     font-family: 'Tangerine', cursive;
     font-size: 150px; /* Larger logo text */
     font-weight: bold;
-    animation: slideIn 2s ease;
+    animation: bounceLogo 2s ease-in-out infinite;
     text-shadow: 2px 2px 8px rgba(255, 255, 255, 0.6); /* Glowing text */
     border-bottom: 2px solid white;
     padding-bottom: 5px;

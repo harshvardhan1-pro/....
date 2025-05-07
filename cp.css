@@ -13,7 +13,7 @@ header {
     align-items: center;
    
     color: purple;
-    padding: 30px 60px; /* Increased height */
+    padding: 60px 120px; /* Increased height */
     box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.3);
     position: fixed;
     width: 100%;
@@ -151,9 +151,6 @@ nav a:hover {
     to { text-shadow: 0 0 20px #ffcc70, 0 0 30px #ffcc70; }
 }
 
-@media (max-width: 600px) {
-    .search-filter {
-        flex-direction: column;
-        align-items: center;
+
     }
 }

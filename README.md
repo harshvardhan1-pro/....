@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Chandra Prakash Cloth Store</title>
-    <link rel="stylesheet" href="cp.css">
+    <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Tangerine&family=Lato&display=swap" rel="stylesheet">
 </head>
 <body>

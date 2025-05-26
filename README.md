@@ -101,7 +101,10 @@
             <img src="https://raw.githubusercontent.com/harshvardhan1-pro/..../main/Screenshot%202025-05-07%20144324.png" alt="Chunri">
             <h3>Chunri</h3>
 
-   
+</div>
+</div>
+</div>
+
 </section>
 
 <section id="contact" class="contact">
